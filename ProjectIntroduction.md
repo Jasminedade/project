@@ -1,5 +1,6 @@
 Name - Jasmine Dade
 Student id - 100420168
+Course - INFO 1113 S10
 
 INTRODUCTION OF PROJECT
 
