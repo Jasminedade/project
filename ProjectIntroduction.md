@@ -1,3 +1,6 @@
+Name - Jasmine Dade
+Student id - 100420168
+
 INTRODUCTION OF PROJECT
 
 The project is about graphical table reservation app in which people can easily book their tables at home. 
